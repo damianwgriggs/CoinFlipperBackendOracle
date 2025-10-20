@@ -1,0 +1,12 @@
+{
+  "name": "coinflip-oracle",
+  "version": "1.0.0",
+  "description": "A simple oracle for the AVAX CoinFlip game.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
